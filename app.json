@@ -1,0 +1,12 @@
+{
+  "name": "transform-app",
+  "displayName": "transform-app",
+  "expo": {
+    "name": "transform-app",
+    "slug": "transform-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
